@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chaotea/imessage-bot.git"
+    "url": "https://github.com/kmcmahon4imessage-bot.git"
   },
-  "author": "Chao Cheng",
+  "author": "Kerri McMahon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaotea/imessage-bot/issues"
+    "url": "https://github.com/kmcmahon4/imessage-bot/issues"
   },
-  "homepage": "https://github.com/chaotea/imessage-bot#readme"
+  "homepage": "https://github.com/kmcmahon4/imessage-bot#readme"
 }
