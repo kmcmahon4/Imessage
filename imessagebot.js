@@ -22,7 +22,7 @@ function sleep(ms) {
 
 async function send(lines) {
     for (let i = 0; i < lines.length; i++) {
-        imessage.send('+16315229248', lines[i])
+        imessage.send('+16310000000', lines[i])
         console.log("Sent: " + lines[i])
         await sleep(1000)
     }
